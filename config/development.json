@@ -1,0 +1,7 @@
+{
+    "name": "Api Rest Express - Development",
+    "port": 6000,
+    "configDB":{
+        "host": "prueba-db-server"
+    }
+}
